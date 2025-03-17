@@ -37,6 +37,10 @@ h3 {
   font-size: 30px;
 }
 
+.center-text {
+  text-align: center;
+}
+
 p,
 h4 {
   font-family: "SUSE", sans-serif;
